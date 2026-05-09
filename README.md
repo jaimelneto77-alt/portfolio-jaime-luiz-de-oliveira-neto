@@ -4,9 +4,9 @@
 ---
  
 ### 📫 Contato & Redes Sociais
-[(https://www.linkedin.com/in/jaime-neto-5a57b2219/)]
-[(mailto:jaimelneto77@gmail.com)]
-[(file:///C:/Users/jaime/OneDrive/%C3%81rea%20de%20Trabalho/Curriculum/JAIME%20NETO.pdf)]
+[((https://www.linkedin.com/in/jaime-neto-5a57b2219/))]
+[((mailto:jaimelneto77@gmail.com))]
+[((file:///C:/Users/jaime/OneDrive/%C3%81rea%20de%20Trabalho/Curriculum/JAIME%20NETO.pdf))]
  
 ---
  
