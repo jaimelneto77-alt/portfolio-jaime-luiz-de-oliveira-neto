@@ -2,13 +2,11 @@
 > Estudante de [Análise de Desenvolvimento de Sistema ]
  
 ---
- 
-### 📫 Contato & Redes Sociais
-((Emaio:jaimelneto77@gmail.com)][((file:///C:/Users/jaime/OneDrive/%C3%81rea%20de%20Trabalho/Curriculum/JAIME%20NETO.pdf))]
-(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/jaime-neto-5a57b2219/))
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-profissional@email.com)
+ ### 📫 Contato & Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jaime-neto-5a57b2219)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimelneto77@gmail.com)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
----
+ 
  
 ### 👨‍💻 Sobre
 Atualmente cursando o [1º] período de [Análise de Desenvolvimento de Sistema] na [UNICID]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Análise de Dados].
