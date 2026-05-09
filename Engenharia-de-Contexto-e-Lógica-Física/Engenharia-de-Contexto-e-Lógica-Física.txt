@@ -1,0 +1,26 @@
+Parte 1: O Algoritmo do Microclima Local (Pesquisa + Código 1)
+https://colab.research.google.com/drive/1M9GAAJJiRQUfUrn7p2osH7OxQaSfr0i3#scrollTo=w-sWwB1ZeiKN&line=4&uniqifier=1
+
+
+
+Parte 2: Navegação e Evacuação Espacial (Avaliação + Código 2)
+https://colab.research.google.com/drive/1M9GAAJJiRQUfUrn7p2osH7OxQaSfr0i3#scrollTo=2lTapiR_kjkD&line=83&uniqifier=1
+
+
+
+Parte 3: Reflexão Crítica (Além do Código)
+**Parágrafo 1:**
+
+Basicamente, aprender a programar é como ganhar um par de óculos novos: você deixa de ver apenas objetos e passa a enxergar a lógica e as decisões por trás de tudo, organizando o caos do dia a dia em informações claras.
+
+
+
+**Parágrafo 2:**
+
+O maior desafio aqui foi entender que o computador não aceita meio-termo; ele precisa de ordens exatas. Isso te força a ser super específico e a sempre ter um "plano B" na manga. No fim das contas, programar acaba te ensinando a prever erros e a se preparar para os obstáculos antes mesmo de você chegar neles.
+
+
+
+**Parágrafo 3:**
+
+Essa mudança de pensamento acabou indo para a vida real. Agora, em vez de se desesperar com um problema grande, você o divide em pedaços menores para resolver um por um. Se algo dá errado, você não se estressa mais tanto: só para, analisa e tenta descobrir qual parte do plano precisa de um ajuste. Ficou bem mais prático lidar com os imprevistos.
