@@ -4,10 +4,12 @@
 ---
  
 ### 📫 Contato & Redes Sociais
-[((https://www.linkedin.com/in/jaime-neto-5a57b2219/))]
-[((mailto:jaimelneto77@gmail.com))]
+[(https://www.linkedin.com/in/jaime-neto-5a57b2219/)]
+((mailto:jaimelneto77@gmail.com)]
 [((file:///C:/Users/jaime/OneDrive/%C3%81rea%20de%20Trabalho/Curriculum/JAIME%20NETO.pdf))]
- 
+(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/jaime-neto-5a57b2219/))
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-profissional@email.com)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
 ---
  
 ### 👨‍💻 Sobre
