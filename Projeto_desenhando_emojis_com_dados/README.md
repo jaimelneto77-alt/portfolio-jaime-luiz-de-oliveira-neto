@@ -1,47 +1,32 @@
-## 🏥 Módulos de Saúde e Comércio
+## 🧩 Desafios de Matrizes e Lógica
 
-Nesta seção, os algoritmos resolvem problemas de triagem e logística financeira utilizando fluxogramas e pseudocódigo.
+Exercícios práticos de manipulação de dados e criatividade desenvolvidos em Python.
 
-### 1. Sistema Inteligente de Triagem Hospitalar
-[cite_start]Desenvolvido para automatizar a classificação de risco em unidades de saúde[cite: 1]. 
-* [cite_start]**Processo**: Realiza a triagem inicial baseada em sinais vitais como febre, pressão e frequência cardíaca[cite: 1, 3].
-* [cite_start]**Lógica**: Utiliza condicionais para separar casos graves (atendimento imediato/internação) de casos não urgentes (fila de consulta)[cite: 1, 3].
-* [cite_start]**Melhorias Identificadas**: Necessidade de integração com sensores em tempo real para maior precisão diagnóstica[cite: 2].
+### 1. 🎨 O Criador de Emojis (Pixels RGB)
+Manipulação de imagens digitais através de matrizes bidimensionais, onde cada elemento representa um pixel com valores RGB.
+🔗 [Acessar no Google Colab](https://colab.research.google.com/drive/1PgQrXmxqjUYXh66qyFAwlIFMQ6nV53PB#scrollTo=Z4UMtqZ13cYK&line=41&uniqifier=1)
 
-### 2. Automação de Caixa e Cálculo de Troco
-[cite_start]Sistema focado na eficiência de pontos de venda, garantindo a entrega exata de valores[cite: 5].
-* [cite_start]**Validação**: Verifica se o valor pago é suficiente para cobrir o total da compra[cite: 5, 7].
-* [cite_start]**Decomposição**: Utiliza operações de divisão inteira (`DIV`) e resto (`MOD`) para devolver o troco utilizando a menor quantidade possível de cédulas (100, 50, 10, 5, 1)[cite: 5, 6].
+### 2. 🎵 Matrizes Musicais (Transposição)
+Exploração da relação entre música e matemática através da transposição de tons musicais via manipulação de índices de matrizes.
+🔗 [Acessar no Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=39wGbWat5Bf2&line=4&uniqifier=1)
 
----
-
-## 🎨 Desafios de Matrizes e Criatividade
-
-Exploração de estruturas de dados complexas e integração de módulos no Google Colab.
-
-* **O Criador de Emojis (Pixels RGB)**: Representação de imagens digitais onde cada elemento da matriz bidimensional corresponde a um pixel com valores RGB.
-* **Matrizes Musicais (Transposição)**: Manipulação de índices em matrizes para realizar a transposição de tons musicais mantendo a harmonia.
-* **O Integrador**: Implementação livre que consolida entrada de dados, processamento lógico e saída estruturada.
+### 3. 🛠️ O Integrador (Criação Livre)
+Implementação consolidada que integra entrada de dados, processamento lógico e saída estruturada para resolver problemas complexos.
+🔗 [Acessar no Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=Zb9Er1VQ5L8W&line=2&uniqifier=1)
 
 ---
 
 ## 📖 Documentação Técnica
 
 ### Manipulação de Dados em Python
-* **Tipagem e `input()`**: Por padrão, o Python recebe dados como String. É obrigatório o uso de `int()` ou `float()` para realizar operações matemáticas e evitar erros de `TypeError`.
-* **Estrutura `range()`**: Diferente do pseudocódigo tradicional, o limite superior no Python é exclusivo. Para percorrer de 1 até o total de meses, utiliza-se `range(1, total_meses + 1)`.
-
-### Acesso a Matrizes
-* **Navegação**: Compreensão profunda de acesso via índices `matriz[linha][coluna]`.
-* **Iteração**: Uso de laços aninhados (`for` dentro de `for`) para processamento de dados em larga escala.
+* **Tipagem Padrão**: A função `input()` sempre retorna strings. O uso de `int()` ou `float()` é essencial para operações matemáticas.
+* **Estrutura de Repetição**: O uso do `range(inicio, fim + 1)` é fundamental para garantir que o limite superior seja incluído no loop, respeitando a lógica de índices do Python.
 
 ---
 
-## 🧠 Lições Técnicas Aprendidas
+## 🧠 Reflexão Crítica
 
-* **Decomposição**: Habilidade de quebrar problemas complexos (como uma triagem médica ou uma imagem digital) em subproblemas menores e tratáveis.
-* **Rigor e Precisão**: O computador exige ordens exatas, o que força o desenvolvedor a antecipar erros e criar "planos B" lógicos.
-* **Visão Computacional**: A programação atua como uma "nova lente", permitindo enxergar a lógica e as decisões estruturais por trás do caos cotidiano.
-
----
-*Documentação desenvolvida como parte do portfólio de estudos em Análise e Desenvolvimento de Sistemas (ADS).*
+A jornada de desenvolvimento destes algoritmos proporcionou uma mudança de mentalidade:
+* **Nova Perspectiva**: Programar é como ganhar "óculos novos", permitindo enxergar a lógica por trás de objetos e processos cotidianos.
+* **Rigor e Detalhe**: A máquina não aceita meio-termo. Isso força o desenvolvedor a ser específico, prever erros e construir "planos B" sólidos.
+* **Decomposição**: Problemas grandes tornam-se práticos quando divididos em pedaços menores, facilitando o ajuste de rotas diante de imprevistos.
