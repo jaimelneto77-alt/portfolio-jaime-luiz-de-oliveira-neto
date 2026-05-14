@@ -45,35 +45,14 @@ Atualmente cursando o [1º] período de [Análise de Desenvolvimento de Sistema]
 
 
 ### 🏗 Estrutura do Repositório
-root/
-├── README.md                                    ← apresentação principal
-│
-├── Engenharia de Contexto e Lógica Física/
-│   ├── src/
-│   ├── docs/
-│   └── README.md
-│
-├── Projeto-Traduzindo-logica-para-python/
-│   ├── src/
-│   ├── docs/
-│   └── README.md
-│
-├── Projeto-engenharia-de-contexto-e-lógica-física/
-│   ├── src/
-│   ├── docs/
-│   └── README.md
-│
-├── Projeto-modularização/
-│   ├── src/
-│   ├── docs/
-│   └── README.md
-│
-├── Projeto_desenhando_emojis_com_dados/
-│   ├── src/
-│   ├── docs/
-│   └── README.md
-│
-└── engenharia-de-soluções-logicas/
-    ├── src/
-    ├── docs/
-    └── README.md
+
+`-Engenhari de Contexto e Lógica Física´:
+Projeto-Traduzindo-logica-para-python
+Projeto-engenharia-de-contexto-e-lógica-física
+Projeto-modularização
+Projeto_desenhando_emojis_com_dados
+engenharia-de-soluções-logicas
+root/: curriculo
+
+
+
