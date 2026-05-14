@@ -164,8 +164,8 @@ O decorator `@auditor` envolve automaticamente a função principal, gerando um 
 
 ****
 
-[![LinkedIn](
-[![Gmail](
+[![LinkedIn](https://www.linkedin.com/in/jaime-neto-5a57b2219/)
+[![Gmail](Email:jaimelneto77@gmail.com)
 
 *Desenvolvido com Python 🐍 e muito café ☕*
 
