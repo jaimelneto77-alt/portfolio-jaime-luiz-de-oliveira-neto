@@ -41,7 +41,7 @@ Atualmente cursando o [1º] período de [Análise de Desenvolvimento de Sistema]
 | **Projeto-modularização** | "Reestruturação de sistemas complexos através da decomposição modular em Python. | [Ver projeto](https://github.com/jaimelneto77-alt/portfolio-jaime-luiz-de-oliveira-neto/tree/main/Projeto-modulariza%C3%A7%C3%A3o)
 | **Projeto_desenhando_emojis_com_dados** | Exploração criativa de estruturas de dados para a geração de ícones visuais. O projeto utiliza matrizes e coordenadas lógicas em Python para traduzir fluxos de dados em representações gráficas (emojis) . | [Ver projeto](https://github.com/jaimelneto77-alt/portfolio-jaime-luiz-de-oliveira-neto/tree/main/Projeto_desenhando_emojis_com_dados)
 | **engenharia-de-soluções-logicas** | Criação de arquiteturas de sistemas focadas na resolução de problemas complexos. Este projeto integra análise de requisitos, lógica de programação e estruturação de dados para entregar soluções escaláveis e eficientes, transformando necessidades abstratas em fluxos de trabalho automatizados. | [Ver projeto](https://github.com/jaimelneto77-alt/portfolio-jaime-luiz-de-oliveira-neto/tree/main/Projeto_desenhando_emojis_com_dados)
-
+| **Construção-de-Portfólio-Profissional** | Meu foco está na aplicação de tecnologia e automação para otimizar processos operacionais e de gestão, transformando décadas de conhecimento prático em soluções digitais inteligentes e eficientes. | [Ver projeto](https://github.com/jaimelneto77-alt/portfolio-jaime-luiz-de-oliveira-neto/tree/main/Constru%C3%A7%C3%A3o_de_Portf%C3%B3lio_Profissional)
 
 
 ### 🏗 Estrutura do Repositório
