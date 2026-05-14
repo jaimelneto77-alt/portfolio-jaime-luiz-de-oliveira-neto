@@ -8,9 +8,9 @@
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimelneto77@gmail.com)
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [1º] período de [Análise de Desenvolvimento de Sistema] na [UNICID]. Minha missão é transformar a visão do cliente em especificações técnicas de alta qualidade, utilizando a Engenharia de Requisitos como base para sistemas robustos e eficientes.
+Atualmente cursando o  período de [Análise de Desenvolvimento de Sistema] na [UNICID]. Minha missão é transformar a visão do cliente em especificações técnicas de alta qualidade, utilizando a Engenharia de Requisitos como base para sistemas robustos e eficientes.
  
-* **Habilidades Técnicas:** [Python].
+* **Habilidades Técnicas:** Python
 * **Habilidades Socioemocionais:** Empatia, respeito, confiança e capacidade de se colocar no lugar do outro.
  
 ---
