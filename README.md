@@ -35,10 +35,9 @@ Atualmente cursando o [1º] período de [Análise de Desenvolvimento de Sistema]
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Engenhari de Contexto e Lógica Física** | É a disciplina focada em organizar, filtrar e apresentar informações de modo que o sistema (seja uma IA ou um software) compreenda exatamente o cenário em que está operando. | [Ver Projeto](https://github.com/jaimelneto77-alt/portfolio-jaime-luiz-de-oliveira-neto/tree/main/Engenharia-de-Contexto-e-L%C3%B3gica-F%C3%ADsica) |
- 
-| **Projeto-Traduzindo-logica-para-python** |  Desenvolvimento de um framework em Python que converte modelos teóricos de Engenharia de Contexto e Lógica Física em sistemas funcionais. | [Ver Projeto](https://github.com/jaimelneto77-alt/portfolio-jaime-luiz-de-oliveira-neto/tree/main/Engenharia-de-Contexto-e-L%C3%B3gica-F%C3%ADsica)
----
+| **Engenhari de Contexto e Lógica Física** | É a disciplina focada em organizar, filtrar e apresentar informações de modo que o sistema (seja uma IA ou um software) compreenda exatamente o cenário em que está operando. | [Ver Projeto](https://github.com/jaimelneto77-alt/portfolio-jaime-luiz-de-oliveira-neto/tree/main/Engenharia-de-Contexto-e-L%C3%B3gica-F%C3%ADsica)
+
+| **Projeto-Traduzindo-logica-para-python** | Desenvolvimento de um framework em Python que converte modelos teóricos de Engenharia de Contexto e Lógica Física em sistemas funcionais | [Ver projeto](https://github.com/jaimelneto77-alt/portfolio-jaime-luiz-de-oliveira-neto/tree/main/Projeto-Traduzindo-logica-para-python)
  
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
