@@ -46,13 +46,12 @@ Atualmente cursando o [1º] período de [Análise de Desenvolvimento de Sistema]
 
 ### 🏗 Estrutura do Repositório
 
-`-Engenhari de Contexto e Lógica Física´:
-Projeto-Traduzindo-logica-para-python
-Projeto-engenharia-de-contexto-e-lógica-física
-Projeto-modularização
-Projeto_desenhando_emojis_com_dados
-engenharia-de-soluções-logicas
-root/: curriculo
-
-
+- `root/`: Apresentação principal e currículo.
+- `Projeto-Engenharia de contexto e logica fisica/`:spatial-safety/projeto_engenharia_contexto/
+- `projeto desenhando emojis com dados/`:	spatial-safety/projeto_desenhando_emojis/
+- `projeto modularização/`:	logistics-flow/projeto_modularizacao/
+- `projeto traduzindo lógica para python/`:	logistics-flow/projeto_traduzindo_logica/
+- `Projeto o algoritmo de autoria de dados/`:	data-audit/projeto_algoritmo_autoria/
+- `sistema de auditoria de recurso/`:	data-audit/sistema_auditoria_recurso/
+- `projeto engenharia de soluções/`:	logistics-flow/projeto_engenharia_solucoes/
 
