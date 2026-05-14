@@ -35,7 +35,7 @@ Atualmente cursando o [1º] período de [Análise de Desenvolvimento de Sistema]
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| **Engenhari de Contexto e Lógica Física** | É a disciplina focada em organizar, filtrar e apresentar informações de modo que o sistema (seja uma IA ou um software) compreenda exatamente o cenário em que está operando. | [Ver Projeto](https://github.com/jaimelneto77-alt/portfolio-jaime-luiz-de-oliveira-neto/tree/main/Engenharia-de-Contexto-e-L%C3%B3gica-F%C3%ADsica) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
