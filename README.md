@@ -45,7 +45,35 @@ Atualmente cursando o [1º] período de [Análise de Desenvolvimento de Sistema]
 
 
 ### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
- 
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+root/
+├── README.md                                    ← apresentação principal
+│
+├── Engenharia de Contexto e Lógica Física/
+│   ├── src/
+│   ├── docs/
+│   └── README.md
+│
+├── Projeto-Traduzindo-logica-para-python/
+│   ├── src/
+│   ├── docs/
+│   └── README.md
+│
+├── Projeto-engenharia-de-contexto-e-lógica-física/
+│   ├── src/
+│   ├── docs/
+│   └── README.md
+│
+├── Projeto-modularização/
+│   ├── src/
+│   ├── docs/
+│   └── README.md
+│
+├── Projeto_desenhando_emojis_com_dados/
+│   ├── src/
+│   ├── docs/
+│   └── README.md
+│
+└── engenharia-de-soluções-logicas/
+    ├── src/
+    ├── docs/
+    └── README.md
