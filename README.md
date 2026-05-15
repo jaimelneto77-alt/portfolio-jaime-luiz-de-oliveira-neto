@@ -4,10 +4,10 @@
 ---
  ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-neto-5a57b2219/)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](cv/JAIME NETO.pdf)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimelneto77@gmail.com)
  
-### 👨‍💻 Sobre
+### 👨‍💻 Sobrecv
 Atualmente cursando o  período de [Análise de Desenvolvimento de Sistema] na [UNICID]. Minha missão é transformar a visão do cliente em especificações técnicas de alta qualidade, utilizando a Engenharia de Requisitos como base para sistemas robustos e eficientes.
  
 * **Habilidades Técnicas:** Python
