@@ -33,8 +33,6 @@ Possuo uma carreira de 30 anos na área administrativa, com experiência tanto e
 ![Empatia](https://img.shields.io/badge/Empatia%20no%20Atendimento%20e%20Relacionamento%20Interpessoal-8E44AD?style=for-the-badge)
 ![Respeito e Confiança](https://img.shields.io/badge/Respeito%20e%20Confian%C3%A7a-8E44AD?style=for-the-badge)
 
----
-
 ## 🎓 Formação
 
 **Análise e Desenvolvimento de Sistemas (Tecnólogo)** — UNICID — *Cursando*
