@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-neto-5a57b2219/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimelneto77@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimelneto77-alt)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511991748397)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./CV/jaime-neto.pdf)
 
 ---
@@ -32,6 +33,8 @@ Possuo uma carreira de 30 anos na área administrativa, com experiência tanto e
 ![Ética Profissional](https://img.shields.io/badge/%C3%89tica%20Profissional%20e%20Responsabilidade-8E44AD?style=for-the-badge)
 ![Empatia](https://img.shields.io/badge/Empatia%20no%20Atendimento%20e%20Relacionamento%20Interpessoal-8E44AD?style=for-the-badge)
 ![Respeito e Confiança](https://img.shields.io/badge/Respeito%20e%20Confian%C3%A7a-8E44AD?style=for-the-badge)
+
+---
 
 ## 🎓 Formação
 
