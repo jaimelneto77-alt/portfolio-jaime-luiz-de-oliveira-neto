@@ -8,14 +8,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimelneto77-alt)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./CV/jaime-neto.pdf)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimelneto77@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511991748397)
 
 ---
 
 ### 👨‍💻 Sobre mim
-Possuo uma carreira de 30 anos na área administrativa, com experiência tanto em hospitais quanto em fábricas, atuando na organização de processos e rotinas operacionais. Meu ponto forte é a organização, característica que aplico atualmente ajudando fábricas e comércios de pequeno a médio porte a estruturar melhor suas operações.
-
-Atualmente cursando Análise e Desenvolvimento de Sistemas na **UNICID**. Iniciar essa jornada representa um desafio importante na minha trajetória, já que parto de conhecimentos básicos em tecnologia, mas estou motivado a me aprofundar nessa área e unir minha bagagem administrativa a novas competências técnicas. Minha missão é transformar a visão do cliente em especificações técnicas de alta qualidade, utilizando a Engenharia de Requisitos como base para sistemas robustos e eficientes.
+Possuo uma carreira de 30 anos na área administrativa, com experiência tanto em hospitais quanto em fábricas, atuando na organização de processos e rotinas operacionais. Meu ponto forte é a organização, característica que aplico atualmente ajudando fábricas e comércios de pequeno a médio porte a estruturar melhor suas operações - Atualmente cursando Análise e Desenvolvimento de Sistemas na **UNICID**. Iniciar essa jornada representa um desafio importante na minha trajetória, já que parto de conhecimentos básicos em tecnologia, mas estou motivado a me aprofundar nessa área e unir minha bagagem administrativa a novas competências técnicas. Minha missão é transformar a visão do cliente em especificações técnicas de alta qualidade, utilizando a Engenharia de Requisitos como base para sistemas robustos e eficientes.
 
 ---
 
@@ -44,20 +41,24 @@ Essa vivência despertou meu interesse por dados e organização de processos, o
 ### 🧠 Habilidades
 
 **Hard Skills**
-- Análise de Dados
-- Pesquisa de Mercado
-- Análise de Redes Sociais
-- Excel, Word, PowerPoint
-- Ferramentas da Qualidade
-- Python
+
+![Análise de Dados](https://img.shields.io/badge/An%C3%A1lise%20de%20Dados-2C3E50?style=for-the-badge)
+![Pesquisa de Mercado](https://img.shields.io/badge/Pesquisa%20de%20Mercado-2C3E50?style=for-the-badge)
+![Análise de Redes Sociais](https://img.shields.io/badge/An%C3%A1lise%20de%20Redes%20Sociais-2C3E50?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Ferramentas da Qualidade](https://img.shields.io/badge/Ferramentas%20da%20Qualidade-2C3E50?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Soft Skills**
-- Resiliência e Adaptação a Mudanças
-- Pensamento Analítico e Orientação a Resultados
-- Proatividade na Resolução de Problemas
-- Ética Profissional e Responsabilidade
-- Empatia no Atendimento e Relacionamento Interpessoal
-- Respeito e confiança, capacidade de se colocar no lugar do outro
+
+![Resiliência](https://img.shields.io/badge/Resili%C3%AAncia%20e%20Adapta%C3%A7%C3%A3o%20a%20Mudan%C3%A7as-8E44AD?style=for-the-badge)
+![Pensamento Analítico](https://img.shields.io/badge/Pensamento%20Anal%C3%ADtico%20e%20Orienta%C3%A7%C3%A3o%20a%20Resultados-8E44AD?style=for-the-badge)
+![Proatividade](https://img.shields.io/badge/Proatividade%20na%20Resolu%C3%A7%C3%A3o%20de%20Problemas-8E44AD?style=for-the-badge)
+![Ética Profissional](https://img.shields.io/badge/%C3%89tica%20Profissional%20e%20Responsabilidade-8E44AD?style=for-the-badge)
+![Empatia](https://img.shields.io/badge/Empatia%20no%20Atendimento%20e%20Relacionamento%20Interpessoal-8E44AD?style=for-the-badge)
+![Respeito e Confiança](https://img.shields.io/badge/Respeito%20e%20Confian%C3%A7a-8E44AD?style=for-the-badge)
 
 ---
 
