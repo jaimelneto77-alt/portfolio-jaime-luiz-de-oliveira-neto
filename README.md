@@ -1,7 +1,4 @@
 # Jaime Luiz de Oliveira Neto
-> Estudante de Análise e Desenvolvimento de Sistemas
-
----
 
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-neto-5a57b2219/)
