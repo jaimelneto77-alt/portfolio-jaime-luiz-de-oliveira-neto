@@ -6,9 +6,9 @@
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-neto-5a57b2219/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimelneto77-alt)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/jaimelneto77-alt/portfolio-jaime-luiz-de-oliveira-neto/blob/main/CV/jaime-l-neto.pdf)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimelneto77@gmail.com) 
-
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./CV/jaime-neto.pdf)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimelneto77@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511991748397)
 
 ---
 
@@ -27,13 +27,13 @@ Gestão de prontuários médicos, laudos técnicos e suporte à gestão hospital
 **Contrasti Comércio de Acessórios**
 Atendimento ao cliente, controle de estoque e conformidade fiscal, com aumento de **20%** na satisfação do cliente e redução de **15%** nos erros de estoque.
 
-Essa vivência despertou meu interesse por dados e organização de processos, o que me motivou a iniciar o curso de Análise e Desenvolvimento de Sistemas, unindo agora minha bagagem administrativa a novas competências técnicas para seguir na área de tecnologia.
+Essa vivência despertou meu interesse por dados e organização de processos, o que me motivou a iniciar o curso de Análise e Desenvolvimento de Sistemas na UNICID, unindo agora minha bagagem administrativa a novas competências técnicas para seguir na área de tecnologia.
 
 ---
 
 ### 🎓 Formação
 - **Análise e Desenvolvimento de Sistemas** — UNICID *(Cursando)*
-- **Marketing**
+- **Marketing** *(Concluído)*
 
 ### 📚 Cursos
 - Identificação de Riscos Cibernéticos
