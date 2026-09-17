@@ -13,7 +13,7 @@
 
 Possuo uma carreira de 30 anos na área administrativa, com experiência tanto em hospitais quanto em fábricas, atuando na organização de processos e rotinas operacionais. Meu ponto forte é a organização, característica que aplico atualmente ajudando fábricas e comércios de pequeno a médio porte a estruturar melhor suas operações. Iniciar a jornada em tecnologia representa um desafio importante na minha trajetória, já que parto de conhecimentos básicos na área, mas estou motivado a me aprofundar e unir minha bagagem administrativa a novas competências técnicas. Minha missão é transformar a visão do cliente em especificações técnicas de alta qualidade, utilizando a Engenharia de Requisitos como base para sistemas robustos e eficientes.
 
-### Hard Skills
+## Hard Skills
 
 ![Análise de Dados](https://img.shields.io/badge/An%C3%A1lise%20de%20Dados-2C3E50?style=for-the-badge)
 ![Pesquisa de Mercado](https://img.shields.io/badge/Pesquisa%20de%20Mercado-2C3E50?style=for-the-badge)
@@ -24,7 +24,7 @@ Possuo uma carreira de 30 anos na área administrativa, com experiência tanto e
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 ![Ferramentas da Qualidade](https://img.shields.io/badge/Ferramentas%20da%20Qualidade-2C3E50?style=for-the-badge)
 
-### Soft Skills
+## Soft Skills
 
 ![Resiliência](https://img.shields.io/badge/Resili%C3%AAncia%20e%20Adapta%C3%A7%C3%A3o%20a%20Mudan%C3%A7as-8E44AD?style=for-the-badge)
 ![Pensamento Analítico](https://img.shields.io/badge/Pensamento%20Anal%C3%ADtico%20e%20Orienta%C3%A7%C3%A3o%20a%20Resultados-8E44AD?style=for-the-badge)
