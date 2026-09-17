@@ -1,15 +1,21 @@
 # Jaime Luiz de Oliveira Neto
+> Estudante de Análise e Desenvolvimento de Sistemas
+
+---
 
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaime-neto-5a57b2219/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaimelneto77-alt)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./CV/jaime-neto.pdf)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimelneto77@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511991748397)
 
 ---
 
 ### 👨‍💻 Sobre mim
-Possuo uma carreira de 30 anos na área administrativa, com experiência tanto em hospitais quanto em fábricas, atuando na organização de processos e rotinas operacionais. Meu ponto forte é a organização, característica que aplico atualmente ajudando fábricas e comércios de pequeno a médio porte a estruturar melhor suas operações - Atualmente cursando Análise e Desenvolvimento de Sistemas na **UNICID**. Iniciar essa jornada representa um desafio importante na minha trajetória, já que parto de conhecimentos básicos em tecnologia, mas estou motivado a me aprofundar nessa área e unir minha bagagem administrativa a novas competências técnicas. Minha missão é transformar a visão do cliente em especificações técnicas de alta qualidade, utilizando a Engenharia de Requisitos como base para sistemas robustos e eficientes.
+Possuo uma carreira de 30 anos na área administrativa, com experiência tanto em hospitais quanto em fábricas, atuando na organização de processos e rotinas operacionais. Meu ponto forte é a organização, característica que aplico atualmente ajudando fábricas e comércios de pequeno a médio porte a estruturar melhor suas operações.
+
+Atualmente cursando Análise e Desenvolvimento de Sistemas na **UNICID**. Iniciar essa jornada representa um desafio importante na minha trajetória, já que parto de conhecimentos básicos em tecnologia, mas estou motivado a me aprofundar nessa área e unir minha bagagem administrativa a novas competências técnicas. Minha missão é transformar a visão do cliente em especificações técnicas de alta qualidade, utilizando a Engenharia de Requisitos como base para sistemas robustos e eficientes.
 
 ---
 
